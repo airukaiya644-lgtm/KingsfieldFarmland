@@ -1,0 +1,5 @@
+Import this complete static website folder into Emergent. Preserve its visual design, supplied images, advertised project details and working privacy page. Preview it on mobile and desktop, check keyboard navigation, check the gallery, and verify the WhatsApp enquiry flow. Do not claim an enquiry was submitted or a visit confirmed merely because WhatsApp opened.
+
+The website uses no framework, build step or database. Serve index.html and its assets as static files. Preserve /privacy-policy/index.html and support /privacy-policy/ if possible. Host publicly over HTTPS. Keep personal information out of public logs and do not add analytics or advertising pixels without updating the policy and relevant consent controls.
+
+Ask the owner to confirm business roles, exact plot measurements, amenity status and whether 8892750037 is registered on WhatsApp. Review the policy against the actual hosting and business practices. Once published, return the real homepage URL and the exact public privacy-policy URL after testing both without login. Never invent a deployed domain.
